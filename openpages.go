@@ -22,11 +22,11 @@ import (
 
 const cli_major_version = 0
 const cli_miner_version = 0
-const cli_build_version = 16
+const cli_build_version = 19
 
 const cli_min_major_version = 0
 const cli_min_miner_version = 0
-const cli_min_build_version = 16
+const cli_min_build_version = 19
 
 type OpenPagesPlugin struct {
 }
