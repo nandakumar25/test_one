@@ -13823,7 +13823,7 @@ plugins:
       sha256_checksum: 13ef8d593a015befa022358343c2e32c458c789412502d259e2745381679798f
     min_cli_version: 0.0.15
     private_endpoint_supported: true
-  - version: 0.0.16
+  - version: 0.0.19
     updated: 2024-04-08
     binaries:
     - platform: win32
